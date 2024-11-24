@@ -1,1 +1,1 @@
-my random file
+console.log('hello india')
